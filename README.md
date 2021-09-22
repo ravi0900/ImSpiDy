@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ayush 
-- 🌱 I’m currently working on [Kernel](https://github.com/ImSpiDy/Nexus-Xtreme-Kernel)
-- 📫 How to reach me **[Telegram](https://t.me/SpiDyX027)**
+- 🌱 I’m currently learning [Kernel](https://github.com/ImSpiDy/Nexus-Xtreme-Kernel) Development       
+- 📫 How to reach me **[Telegram @SpiDyX027](https://t.me/SpiDyX027)**
