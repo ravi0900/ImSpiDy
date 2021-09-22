@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Ayush</h1>
+<h1 align="center">👋 Hi, I’m Ayush Patel</h1>
 
 - 🌱 I’m currently learning [**Kermal**](https://github.com/ImSpiDy/Nexus-Xtreme-Kernel) Development      
  
