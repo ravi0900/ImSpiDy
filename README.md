@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Ayush 
-- 🌱 I’m currently learning Kermal development
+- 🌱 I’m currently working on [Nexus Xtreme Kernel lavender](https://github.com/ImSpiDy/Nexus-Xtreme-Kernel)
 - 📫 How to reach me **[Telegram](https://t.me/SpiDyX027)**
-
