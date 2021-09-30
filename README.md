@@ -4,4 +4,4 @@
 
 • I’m currently Working on [**ZTS**](https://github.com/NotZeetaa/ZeetaaTweak) Module
  
-• How to reach me **[Telegram @SpiDyX027](https://t.me/SpiDyX027)**
+• How to reach me **[Telegram](https://t.me/SpiDyX027)**
