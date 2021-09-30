@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayush
+#👋 Hi, I’m Ayush
 
 - 🌱 I’m currently learning [**Kermal**](https://github.com/ImSpiDy/Nexus-Xtreme-Kernel) Development      
  
