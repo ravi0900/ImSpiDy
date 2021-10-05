@@ -6,4 +6,4 @@
  
 • How to reach me **[Telegram](https://t.me/SpiDyX027)**
 <!-- GitHub Status-->
-![Stats](https://github-readme-stats.vercel.app/api?username=ImSpiDy&theme=black&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3)
+![Stats](https://github-readme-stats.vercel.app/api?username=ImSpiDy&theme=000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&border_radius=10&line_height=28&hide_border=true&text_color=a3a3a3)
